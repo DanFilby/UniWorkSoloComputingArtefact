@@ -1,2 +1,2 @@
-# UniWorkSoloComputingArtefact
+# Uni-Work Solo Computing Artefact - graphical smoke simulation & rendering
 This repo contains code samples from my final year computing module, a graphical artefact supporting my dissertation. My research was comparing performance between renderers for a fluid-dynamic smoke simulation. So most of the complexity will reside in ``smoke.cpp``, ``voxelrendering.cpp``,``raytracerendering.cpp`` and their corresponding shaders. ``readandwritesmoke.cpp`` also contains code to save the simulations to file, in binary format, and a compression algorithm saving up-to 600% of file-size.
